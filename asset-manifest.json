@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Curs-SV2022-tema3/static/css/main.48a6a0da.css",
+    "main.js": "/Curs-SV2022-tema3/static/js/main.0e7e7dba.js",
+    "index.html": "/Curs-SV2022-tema3/index.html",
+    "main.48a6a0da.css.map": "/Curs-SV2022-tema3/static/css/main.48a6a0da.css.map",
+    "main.0e7e7dba.js.map": "/Curs-SV2022-tema3/static/js/main.0e7e7dba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48a6a0da.css",
+    "static/js/main.0e7e7dba.js"
+  ]
+}
